@@ -14,3 +14,7 @@
 [INFO ] 2024-12-11 13:36:50.158 [main] PetRestAPIFramework - Get User Data executed.
 [INFO ] 2024-12-11 13:36:50.338 [main] PetRestAPIFramework - Update User executed.
 [INFO ] 2024-12-11 13:36:50.503 [main] PetRestAPIFramework - Delete User executed.
+[INFO ] 2024-12-12 10:13:32.351 [main] PetRestAPIFramework - Create user executed
+[INFO ] 2024-12-12 10:13:32.572 [main] PetRestAPIFramework - Get User Data executed.
+[INFO ] 2024-12-12 10:13:32.744 [main] PetRestAPIFramework - Update User executed.
+[INFO ] 2024-12-12 10:13:32.902 [main] PetRestAPIFramework - Delete User executed.
